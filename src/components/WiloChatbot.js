@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import productImg from './assets/wilo-himulti3.jpg'; // Add the product image to your assets folder
-import logoImg from './assets/wilo-logo.png'; // Add the Wilo logo to your assets folder
+import productImg from './assets/himulti.jpeg'; // Add the product image to your assets folder
+import logoImg from './assets/wilologo.png'; // Add the Wilo logo to your assets folder
 
 const WiloChatbot = () => {
   const [messages, setMessages] = useState([
